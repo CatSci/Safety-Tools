@@ -1,5 +1,3 @@
-from tokenize import group
-from matplotlib.pyplot import text
 import streamlit as st
 import pandas as pd
 import seaborn as sns
