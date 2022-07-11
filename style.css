@@ -1,0 +1,7 @@
+body {
+    background-color: lightgoldenrodyellow;
+  }
+  
+  div[data-testid="stHorizontalBlock"] > div:fourth-of-type {
+    background-color: red;
+  }
