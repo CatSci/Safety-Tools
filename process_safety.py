@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from collections import defaultdict
 
+st.markdown('**Note - Please do not post target or intermediate structure information externally**.')
 st.title('Process Safety')
 
 smile = st.text_input('Enter Smile Code', value= 'O1N=C(C=C1)C(C1)=CC(=CC=1N=[N+]=[N-])CC')
